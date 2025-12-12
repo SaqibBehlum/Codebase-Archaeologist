@@ -1,0 +1,5 @@
+{
+  "name": "Codebase Archaeologist",
+  "description": "A legacy code analysis tool that generates documentation, security scans, and refactoring suggestions using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
